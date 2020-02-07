@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/ubuntu/dotfiles/.vim/bundle/vim-sensible'
+let g:netrw_dirhist_2='/home/ubuntu/dotfiles/.vim/bundle/vim-sensible/.git'
+let g:netrw_dirhist_3='/home/ubuntu/dotfiles/.vim/bundle/vim-sensible/.git/hooks'
+let g:netrw_dirhist_4='/home/ubuntu/dotfiles/.vim/bundle/vim-sensible/.git'
+let g:netrw_dirhist_5='/home/ubuntu/dotfiles/.vim/bundle/vim-sensible'
+let g:netrw_dirhist_6='/home/ubuntu/dotfiles/.vim/bundle'
