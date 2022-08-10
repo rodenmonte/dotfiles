@@ -4,3 +4,4 @@
 ln -s ./vim ~/.vim
 ln -s ./tmux.conf ~/.tmux.conf
 ln -s ./vimrc ~/.vimrc
+ln -s ./global_gitignore ~/.gitignore
